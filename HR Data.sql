@@ -1,1 +1,0 @@
-create database hr_project;
